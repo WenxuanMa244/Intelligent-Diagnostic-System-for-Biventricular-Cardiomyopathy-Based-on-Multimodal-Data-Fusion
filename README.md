@@ -55,15 +55,26 @@ This study designed a blood oxygen and heart rate collector with data acquisitio
 
 ## 3. Biventricular Cardiac Image Segmentation
 
-### 3.1 Neural Network Architecture
+### 3.1 Dataset
+
+This study utilizes the **ACDC (Automated Cardiac Diagnosis Challenge)** dataset, which is a publicly available cardiac MRI dataset widely used for cardiac image segmentation research. The dataset contains:
+
+- **Training Set**: 100 patient cases with annotated end-diastolic and end-systolic frames
+- **Testing Set**: 50 patient cases without annotations
+- **Modalities**: Cine MRI images covering four-chamber, two-chamber, and short-axis views
+- **Annotations**: Expert manual segmentations of left ventricle (LV), right ventricle (RV), and myocardium (MYO)
+
+**Dataset Download**: [ACDC Challenge Dataset](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
+
+### 3.2 Neural Network Architecture
 
 An improved semantic segmentation neural network combining the advantages of DeepLabV3 and UNet was developed for ventricular imaging segmentation.
 
-### 3.2 Experimental Results
+### 3.3 Experimental Results
 
 The model achieved high Dice and IOU values on the validation set, demonstrating superior performance compared to baseline models. The segmentation results serve as morphological evaluation indicators for cardiac analysis.
 
-### 3.3 Research Contributions
+### 3.4 Research Contributions
 
 1. Biventricular semantic segmentation
 2. Comparative experimental validation
