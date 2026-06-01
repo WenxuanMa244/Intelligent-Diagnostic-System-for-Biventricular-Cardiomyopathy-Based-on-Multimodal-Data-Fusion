@@ -148,7 +148,9 @@ This research demonstrates how modern technology can enhance medical service eff
 
 ### System Flowchart
 
-![System Architecture](https://neeko-copilot.bytedance.net/api/text2image?prompt=scientific%20flowchart%20showing%20cardiac%20diagnostic%20system%20architecture%20with%20data%20acquisition%20module%20image%20segmentation%20module%20simulation%20module%20and%20diagnostic%20report%20generation%20medical%20engineering%20diagram%20style&image_size=landscape_16_9)
+![System Architecture](image/system_architecture.png)
+
+*Figure 1: System Architecture Flowchart showing the complete diagnostic workflow from data acquisition through image segmentation and simulation to final diagnosis report generation.*
 
 ### Future Directions
 
