@@ -1,5 +1,11 @@
 # Intelligent Diagnostic System for Biventricular Cardiomyopathy Based on Multimodal Data Fusion
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/WenxuanMa244/Intelligent-Diagnostic-System-for-Biventricular-Cardiomyopathy-Based-on-Multimodal-Data-Fusion?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/WenxuanMa244/Intelligent-Diagnostic-System-for-Biventricular-Cardiomyopathy-Based-on-Multimodal-Data-Fusion?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/watchers/WenxuanMa244/Intelligent-Diagnostic-System-for-Biventricular-Cardiomyopathy-Based-on-Multimodal-Data-Fusion?style=social" alt="GitHub watchers">
+</p>
+
 ## Abstract
 
 In recent years, with the development of machine learning, deep learning, and medical imaging technology, significant progress has been made in the early detection and risk prediction of heart diseases. This paper presents an intelligent diagnostic system for biventricular cardiomyopathy based on multimodal data fusion, aiming to improve diagnostic efficiency and patient prognosis.
