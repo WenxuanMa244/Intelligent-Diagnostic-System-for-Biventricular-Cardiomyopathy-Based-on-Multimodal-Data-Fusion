@@ -241,7 +241,7 @@ While the current system has limitations for enterprise-level deployment, it dem
 
 #### 6.2.2 Myocardial Scar Assessment and Cross-Modal Translation
 
-![Quantitative Assessment of Myocardial Scar](Main_image/Quantitative assessment of myocardial scar using PET.png)
+![Quantitative Assessment of Myocardial Scar](Main_image/quantitative-assessment-myocardial-scar-pet.png)
 
 *Figure 10: Quantitative assessment of myocardial scar using PET imaging, demonstrating the potential for advanced cardiac diagnostic analysis.*
 
